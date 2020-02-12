@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/LadySirasa/APPSLAO/master/APPSLAO-58.png</string>
+					<string>https://github.com/LadySirasa/APPSLAO/raw/master/APPSLAO-58.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/LadySirasa/APPSLAO/master/APPSLAO-512.png</string>
+					<string>https://github.com/LadySirasa/APPSLAO/raw/master/APPSLAO-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>com.sit.apps.laos.mobile.ios.dev</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>LAOS APPS</string>
+				<string>Laos APPS</string>
 			</dict>
 		</dict>
 	</array>
